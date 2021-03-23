@@ -10,6 +10,8 @@ permalink: /introduction-to-mitre-attack-framework
 
 This post is part of our course [Adversary Emulation 101: Mimicking a real-world cyber attack](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE).
 
+<div  style="text-align:center"><img src="https://yaksas.in/ycscblog/wp-content/uploads/2021/01/mitreattack3.jpg" width="400" style="vertical-align:middle"></div>
+
 If you want to beat your adversaries, think like them. A common adage we have all heard. [MITRE ATT&CK](https://attack.mitre.org/) is just that. A framework to think like adversaries and beat them in their game. It is a culmination of years of efforts of studying various cyber Adversaries' Tactics, Techniques and turning them into Common Knowledge (ATT&CK).
 
 ## What is ATT&CK framework?
