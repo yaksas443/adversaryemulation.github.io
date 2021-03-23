@@ -10,7 +10,7 @@ Adversary Emulation is a form of cybersecurity assessment. During this assessmen
 
 ## How to perform Adversary Emulation?
 
-These exercises are performed by red teams. The responsibility of defending lies with blue teams. Usually an attack methodology is created or followed to conduct these exercise. This can be in form of a process, such Red Team Operations Attack Lifecycle. Or well defined attack plans such as (MITRE Adversary Emulation Plans)[https://attack.mitre.org/resources/adversary-emulation-plans/]. Cyber threat intelligence sources also play a key role during this exercise. They often serve as a starting point for most exercises.
+These exercises are performed by red teams. The responsibility of defending lies with blue teams. Usually an attack methodology is created or followed to conduct these exercise. This can be in form of a process, such Red Team Operations Attack Lifecycle. Or well defined attack plans such as [MITRE Adversary Emulation Plans](https://attack.mitre.org/resources/adversary-emulation-plans/). Cyber threat intelligence sources also play a key role during this exercise. They often serve as a starting point for most exercises.
 
 ## Benefits
 
