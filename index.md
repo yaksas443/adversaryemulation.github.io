@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: Companion website for the course Immunity Debugger for Exploit Devs by Yaksas CSC. This course is free to enrol.
+description: Companion website for the course Red Team Adversary Emulation 101. This course is free to enrol.
 
 permalink: /
 ---
-## Immunity Debugger for Exploit Devs
+## Red Team Adversary Emulation 101
 
 Immunity Debugger is powerful when it comes to writing exploits, analyzing malware and reverse engineering binary files. It is the debugger of choice for most security professionals. It has a rich user interface with function graphing and a heap analysis tool built specifically for heap creation. It is shipped with Python API for easy extensibility.
 
