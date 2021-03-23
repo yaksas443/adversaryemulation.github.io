@@ -15,8 +15,8 @@ remote_theme: pmarsceill/just-the-docs
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Red Team Adversary Emulation
-tagline: Companion website for the course Red Team Adversary Emulation 101: Mimicking a real-world cyber attack 
-summary: Companion website for the course Red Team Adversary Emulation 101: Mimicking a real-world cyber attack 
+tagline: Companion website for the course Red Team Adversary Emulation 101 - Mimicking a real-world cyber attack 
+summary: Companion website for the course Red Team Adversary Emulation 101 - Mimicking a real-world cyber attack 
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://adversaryemulation.com" # the base hostname & protocol for your site, e.g. http://example.com
 
