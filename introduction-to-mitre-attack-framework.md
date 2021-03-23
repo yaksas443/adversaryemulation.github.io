@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to MITRE ATT&CK Framework
-nav_order: 2
+nav_order: 1
 description: This post covers basics of MITRE ATT&CK framework. One of the use cases of ATT&CK is Adversary Emulation exercises. 
 
 permalink: /introduction-to-mitre-attack-framework
