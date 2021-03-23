@@ -10,7 +10,7 @@ permalink: /
 
 This post is part of our course [Adversary Emulation 101: Mimicking a real-world cyber attack](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE).
 
-![RTAE](https://yaksas.in/ycscblog/wp-content/uploads/2021/01/3816517.jpg =250px)
+![RTAE](https://yaksas.in/ycscblog/wp-content/uploads/2021/01/3816517.jpg =250x)
 
 Adversary Emulation is a form of cybersecurity assessment. During this assessment assessors replicate a specific threat scenario. For example, assessors may assume the role of cyber criminals who want to exfiltrate customer data out of the organization. Another scenario could be assessors trying to infect the organization’s software product(s) and mimic a supply chain attack.
 
