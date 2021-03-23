@@ -8,7 +8,7 @@ permalink: /introduction-to-mitre-attack-framework
 ---
 # Introduction to MITRE ATT&CK Framework
 
-This post is part of our course [Adversary Emulation 101: Mimicking a real-world cyber attack](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE).
+This post is part of our course [Red Team Adversary Emulation 101: Mimicking a real-world cyber attack](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE).
 
 <div  style="text-align:center"><img src="https://yaksas.in/ycscblog/wp-content/uploads/2021/01/mitreattack3.jpg" width="400" style="vertical-align:middle"></div>
 
