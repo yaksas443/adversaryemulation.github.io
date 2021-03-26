@@ -24,4 +24,22 @@ Here's a replica of their webserver, your aim is to find as many vulnerabilities
 6. To access the Tax Firt Labz website (http://taxfirstlabz.xyz) create the following entry in the /etc/hosts file on your attacking machine (Kali Linux, Parrot OS etc.):
 <br> ``` <IP address discovered in step 4>     taxfirstlabz.xyz ```
 
-Start hunting!
+## Rewards
+
+Tax First Labs has hidden a few surprise gifts within this machine as a reward for your efforts. First 10 users to pwn root will earn a special reward (don't forget to check flag.txt).
+
+## How to enter the Hall of fame?
+
+Just tweet us at @yaksas443 once you have pwned either the user or root.
+
+## Hall of fame
+
+**User blood**: TBD  **System blood**: TBD
+
+**User owns**: 0  **Root owns**: 0
+
+### First 10 people to pwn this machine
+
+TBD
+
+Happy hacking!
