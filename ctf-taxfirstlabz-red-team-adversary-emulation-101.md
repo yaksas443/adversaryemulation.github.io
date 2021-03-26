@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CTF - Tax First Labz 
+title: Capture the flag - Tax First Labz 
 nav_order: 2
 description: A boot-to-root machine from Red Team Adversary Emulation 101 course with two flags to capture.  
 
