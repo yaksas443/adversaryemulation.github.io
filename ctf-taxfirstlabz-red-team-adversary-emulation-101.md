@@ -12,7 +12,7 @@ Tax First Labz (TFL) is a rising name in the world of FinTech startups. Started 
 
 Here's a replica of their webserver, your aim is to find as many vulnerabilities as you can and ultimately pwn the root user.  
 
-[Tax First Labs Website (Production)](https://ykrt.in/TFLWSPROD)
+[Tax First Labs Website (Production)]()
 
 ## How to get started?
 
