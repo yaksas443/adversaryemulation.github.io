@@ -1,0 +1,14 @@
+---
+layout: default
+title: CTF - Tax First Labz 
+nav_order: 1
+description: Learn how to perform adversary emulation exercises end-to-end. 
+
+permalink: /ctf-taxfirstlabz-red-team-adversary-emulation-101
+---
+# CTF - Tax First Labz 
+
+Tax First Labz is a rising name in the world of FinTech startups. Started in 2017 by two college friends, their customer base has grown at a rapid scale in the last two years. This is primarily because TaxFile, their SaaS based accounting software, has simplified the process of tax filing for small businesses.
+
+- Website: www.taxfirstlabz.xyz
+
