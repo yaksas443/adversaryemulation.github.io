@@ -43,4 +43,8 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 TBD
 
+## Support
+
+Tweet us at @yaksas443 or join our [discord channel](https://discord.gg/q6y5VM2PbA).
+
 Happy hacking!
