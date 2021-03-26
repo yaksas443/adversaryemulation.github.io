@@ -34,9 +34,10 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 ## Hall of fame
 
-**User blood**: TBD  **System blood**: TBD
-
-**User owns**: 0  **Root owns**: 0
+- **User blood**: TBD  
+- **System blood**: TBD
+- **User owns**: 0  
+- **Root owns**: 0
 
 ### First 10 people to pwn this machine
 
