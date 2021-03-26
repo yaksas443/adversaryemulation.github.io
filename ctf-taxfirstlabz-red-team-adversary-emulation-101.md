@@ -2,7 +2,7 @@
 layout: default
 title: CTF - Tax First Labz 
 nav_order: 2
-description: Learn how to perform adversary emulation exercises end-to-end. 
+description: A boot-to-root machine from Red Team Adversary Emulation 101 course with two flags to capture.  
 
 permalink: /ctf-taxfirstlabz-red-team-adversary-emulation-101
 ---
@@ -12,7 +12,7 @@ Tax First Labz (TFL) is a rising name in the world of FinTech startups. Started 
 
 Here's a replica of their webserver, your aim is to find as many vulnerabilities as you can and ultimately pwn the root user.  
 
-[Tax First Labs Website (Production)]()
+[Tax First Labs Website (Production)](https://ykrt.in/TFLWSPROD)
 
 ## How to get started?
 
