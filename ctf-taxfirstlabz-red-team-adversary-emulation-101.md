@@ -19,7 +19,7 @@ Here's a replica of their webserver, your aim is to find as many vulnerabilities
 - Download the VM from the above link and extract the Zip file.
 - Import / Open OVF with VMWare Player or VMWare Workstation or VirtualBox
 - Run the VM
-- The VM is configured to run in an isolate network (internal network in VirtualBox and LAN Segment in VMWare). 
+- The VM is configured to run in an isolate network (internal network in VirtualBox or LAN Segment in VMWare). This is by design and will keep your host machine and network safe.
 - Once the VM is running, it can be accessed at the IP address 192.168.0.152.
 - To access the Tax Firt Labz website (http://taxfirstlabz.xyz) create the following entry in the /etc/hosts file on your attacking machine (Kali Linux, Parrot OS etc.):
  ``` 192.168.0.152     taxfirstlabz.xyz ```
