@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CTF - Tax First Labz 
-nav_order: 4
+nav_order: 2
 description: Learn how to perform adversary emulation exercises end-to-end. 
 
 permalink: /ctf-taxfirstlabz-red-team-adversary-emulation-101
@@ -16,12 +16,12 @@ Here's a replica of their webserver, your aim is to find as many vulnerabilities
 
 ## How to get started?
 
-- Download the VM from the above link and extract the Zip file.
-- Import / Open OVF with VMWare Player or VMWare Workstation or VirtualBox
-- Run the VM
-- The VM is configured to run in an isolate network (internal network in VirtualBox or LAN Segment in VMWare). This is by design and will keep your host machine and network safe.
-- Once the VM is running, it can be accessed at the IP address 192.168.0.152.
-- To access the Tax Firt Labz website (http://taxfirstlabz.xyz) create the following entry in the /etc/hosts file on your attacking machine (Kali Linux, Parrot OS etc.):
-<br> ``` 192.168.0.152     taxfirstlabz.xyz ```
+1. Download the VM from the above link and extract the Zip file.
+2. Import / Open OVF with VMWare Player or VMWare Workstation or VirtualBox
+3. Run the VM
+4. The VM is configured to run over a host-only network and obtains the IP address automatically via DHCP. You will need to discover the IP address of the machine by using a network scanning tool, such as nmap.
+5. Once you have discovered the IP address, note it down for the next step.
+6. To access the Tax Firt Labz website (http://taxfirstlabz.xyz) create the following entry in the /etc/hosts file on your attacking machine (Kali Linux, Parrot OS etc.):
+<br> ``` <IP address discovered in step 4>     taxfirstlabz.xyz ```
 
 Start hunting!
