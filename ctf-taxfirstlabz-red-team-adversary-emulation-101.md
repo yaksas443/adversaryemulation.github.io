@@ -6,7 +6,7 @@ description: A boot-to-root machine from Red Team Adversary Emulation 101 course
 
 permalink: /ctf-taxfirstlabz-red-team-adversary-emulation-101
 ---
-# CTF - Tax First Labz 
+# Capture the flag - Tax First Labz 
 
 Tax First Labz (TFL) is a rising name in the world of FinTech startups. Started in 2017 by two college friends, their customer base has grown at a rapid scale in the last two years. Recently, they noticed some unusual activity on their webserver and suspect that their might be something fishy going on with their website. In order to speed up their investigation, they decided to crowd-source the issue to the cybersecurity community. 
 
@@ -36,12 +36,14 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 - **User blood**: Mickhat  
 - **System blood**: Mickhat
-- **User owns**: 1 
-- **Root owns**: 1
+- **User owns**: 3 
+- **Root owns**: 3
 
 ### First 10 people to pwn this machine
 
 - Mickhat
+- ARINJOY MANNA
+- Lucas José Rodriguês da Silva
 
 ## Support
 
