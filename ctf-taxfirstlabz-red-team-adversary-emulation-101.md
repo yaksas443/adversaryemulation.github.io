@@ -34,17 +34,17 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 ## Hall of fame
 
-- **User blood**: TBD  
-- **System blood**: TBD
-- **User owns**: 0  
-- **Root owns**: 0
+- **User blood**: Mickhat  
+- **System blood**: Mickhat
+- **User owns**: 1 
+- **Root owns**: 1
 
 ### First 10 people to pwn this machine
 
-TBD
+- Mickhat
 
 ## Support
 
 Tweet us at @yaksas443 or join our [discord channel](https://discord.gg/q6y5VM2PbA).
 
-Happy hacking!
+Happy hacking! 
