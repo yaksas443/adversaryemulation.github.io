@@ -36,17 +36,19 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 - **User blood**: Mickhat  
 - **System blood**: Mickhat
-- **User owns**: 3 
-- **Root owns**: 3
+- **User owns**: 5 
+- **Root owns**: 5
 
 ### First 10 people to pwn this machine
 
 - Mickhat
 - ARINJOY MANNA
 - Lucas José Rodriguês da Silva
+- Himanshu
+- Arron
 
 ## Support
 
 Tweet us at @yaksas443 or join our [discord channel](https://discord.gg/q6y5VM2PbA).
 
-Happy hacking! 
+Happy hacking!
