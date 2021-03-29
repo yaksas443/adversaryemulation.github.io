@@ -36,8 +36,8 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 
 - **User blood**: Mickhat  
 - **System blood**: Mickhat
-- **User owns**: 5 
-- **Root owns**: 5
+- **User owns**: 7 
+- **Root owns**: 6
 
 ### First 10 people to pwn this machine
 
@@ -46,6 +46,7 @@ Just tweet us at @yaksas443 once you have pwned either the user or root.
 - Lucas José Rodriguês da Silva
 - Himanshu
 - Arron
+- Mattia Campagnano
 
 ## Support
 
