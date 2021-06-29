@@ -28,7 +28,7 @@ Here's a replica of their webserver, your aim is to find as many vulnerabilities
 
 Tax First Labs has hidden a few surprise gifts within this machine as a reward for your efforts. First 10 users to pwn root will earn a special reward (don't forget to check flag.txt).
 
-## Giveaway
+## How to get a free enrollment in Red Team Adversary Emulation course?
 
 1. Solve this CTF
 2. Create a write-up and share it.
