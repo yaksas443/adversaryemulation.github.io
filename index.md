@@ -4,7 +4,7 @@ title: Course - Red Team Adversary Emulation
 nav_order: 1
 description: Learn how to perform adversary emulation exercises end-to-end. 
 
-permalink: /course-red-team-adversary-emulation
+permalink: /
 ---
 # Course - Red Team Adversary Emulation
 
