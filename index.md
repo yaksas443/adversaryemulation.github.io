@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course - Red Team Adversary Emulation
+title: Red Team Adversary Emulation Course
 nav_order: 1
 description: Learn how to perform adversary emulation exercises end-to-end. 
 
