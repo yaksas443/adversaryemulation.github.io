@@ -28,6 +28,14 @@ Here's a replica of their webserver, your aim is to find as many vulnerabilities
 
 Tax First Labs has hidden a few surprise gifts within this machine as a reward for your efforts. First 10 users to pwn root will earn a special reward (don't forget to check flag.txt).
 
+## Giveaway
+
+1. Solve this CTF
+2. Create a write-up and share it.
+3. Tag Yaksas CSC when you share your write-up.
+4. Everyone who posts a write-up will get a free course pass.
+5. Successful participants will be listed in hall of fame and their write-ups will be featured on https://adversaryemulation.com
+
 ## How to enter the Hall of fame?
 
 Just tweet us at @yaksas443 once you have pwned either the user or root.
