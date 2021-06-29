@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Course - Red Team Adversary Emulation 101
+title: Course - Red Team Adversary Emulation
 nav_order: 1
 description: Learn how to perform adversary emulation exercises end-to-end. 
 
-permalink: /course-red-team-adversary-emulation-101
+permalink: /course-red-team-adversary-emulation
 ---
-# Course - Red Team Adversary Emulation 101
+# Course - Red Team Adversary Emulation
 
 In this course, we look at an organization's security from a real-world adversary perspective. You are hired by a FinTech startup to conduct an adversary emulation exercise and steal their customer data (before an actual adversary). This exercise assumes zero knowledge about the target network. 
 
