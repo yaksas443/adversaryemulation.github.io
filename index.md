@@ -8,9 +8,25 @@ permalink: /
 ---
 # Red Team Adversary Emulation Course
 
-In this course, we look at an organization's security from a real-world adversary perspective. You are hired by a FinTech startup to conduct an adversary emulation exercise and steal their customer data (before an actual adversary). This exercise assumes zero knowledge about the target network. 
+In this course, you will look at an organization's security from a real-world adversary perspective. You are hired by a FinTech startup, Tax First Labz (http://taxfirstlabz.xyz) to conduct an adversary emulation exercise and steal their customer data (before an actual adversary). This exercise will assume zero knowledge about the target network. 
 
-This is a beginner friendly course. If you have just started your career in offensive cybersecurity or are preparing for penetration testing certifications like OSCP, eJPT, ePTP, CRTP etc. then this course is for you. 
+During this adversary emulation exercise you mimic a real world cyber attack with a specific objective, stealing Tax Fist Labz customer data. You will follow the Red Team Operations Attack Lifecycle to conduct this exercise. You will go through each phase in a step-by-step manner and build our attack path as you move ahead. You will employee a variety of techniques, such as
+
+    - Active and passive information gathering
+    - Weaponizing an exploit
+    - Internal reconnaissance
+    - Brute-forcing via custom username and password lists
+    - Spear phishing a senior employee
+    - Privilege Escalation (Linux and Windows)
+    - Automated Active Directory domain enumeration
+    - Persistence via command and control center
+    - Active Directory attacks
+
+to achieve your objective. Upon completion of the exercise, you will prepare and submit a report to the organization's management.
+
+Through this course you will learn how to use tools such as, PoshC2, Mentalist, BloodHound, Mimikatz, Metasploit, PowerUp, icacls, PowerShell etc. 
+
+This is a beginner friendly course. If you have just started your career in offensive cybersecurity or are preparing for penetration testing exams (OSCP, eJPT, eCPT, eCPTx, CRTP etc.) then this course is for you. If you are already a penetration tester or a red teamer, you will enjoy following a live adversary emulation exercise from scope creation to reporting. 
 
 ### Course introduction 
 
@@ -23,16 +39,17 @@ This is a beginner friendly course. If you have just started your career in offe
     - Difference between red teaming and adversary emulation
     - MITRE ATT&CK Framework
     - Red team operations attack lifecycle
-    - How to conduct adversary emulation exercise on a live organization
+    - How to conduct adversary emulation exercise on a real-world organization
     - Open Source Intelligence (OSINT) techniques to gather information
     - Weaponizing exploits to gain foothold into the network
-    - Password brute-forcing using custom generated lists
-    - Phishing an employee
+    - Password brute-forcing using custom username and password lists
+    - Spear phishing a senior employee
     - Escalating Privileges on Linux and Windows systems
     - Active Directory enumeration using BloodHound
     - Active Directory attacks
     - Establishing persistence via PoshC2 (command and control center software)
     - Creating an engagement report
+
 
 
 [Enrol in the course](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE){: .btn .btn-purple }
