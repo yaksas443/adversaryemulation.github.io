@@ -28,7 +28,7 @@ Through this course you will learn how to use tools such as, PoshC2, Mentalist, 
 
 This is a beginner friendly course. If you have just started your career in offensive cybersecurity or are preparing for penetration testing exams (OSCP, eJPT, eCPT, eCPTx, CRTP etc.) then this course is for you. If you are already a penetration tester or a red teamer, you will enjoy following a live adversary emulation exercise from scope creation to reporting. 
 
-### Course introduction 
+## Course introduction 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAonnM-AkQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,6 +50,18 @@ This is a beginner friendly course. If you have just started your career in offe
     - Establishing persistence via PoshC2 (command and control center software)
     - Creating an engagement report
 
+## Requirements
 
+    - Basic knowledge of Kali Linux
+    - Basic knowledge of PowerShell
+    - Basic understanding of penetration testing and red teaming
+    - Curious mind
+    
+## Who this course is for
+
+    - OSCP, eCPPT, eCPTX, CRTE aspirants
+    - Penetration testers, red teamers, offensive cyber security professionals
+    - Professionals seeking a deeper understanding of real-world cyber attacks
+    - Executives seeking to understand how an organization can be breached
 
 [Enrol in the course](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE){: .btn .btn-purple }
