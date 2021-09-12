@@ -6,7 +6,7 @@ description: Lab to go along with Yaksas CSC's Red Team Adversary Emulation cour
 
 permalink: /rtae-lab-taxfirstlabz
 ---
-# Tax First Labz - Red Team Adversary Emulation Lab
+# Red Team Adversary Emulation Lab - Tax First Labz by Yaksas CSC
 
 Tax First Labz (TFL) is a rising name in the world of FinTech startups. Started in 2017 by two college friends, their customer base has grown at a rapid scale in the last two years. Recently, they noticed some unusual activity in their network and suspect that their might be something fishy going on. In order to speed up their investigation, they decided to crowd-source the issue to the cybersecurity community.
 
