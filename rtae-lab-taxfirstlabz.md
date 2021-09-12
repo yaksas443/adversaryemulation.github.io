@@ -12,6 +12,8 @@ Tax First Labz (TFL) is a rising name in the world of FinTech startups. Started 
 
 This lab is part of the course [Red Team Adversary Emulation](https://adversaryemulation.com/) by [Yaksas CSC](https://yaksas.in). In this course, you will look at an organization’s security from a real-world adversary perspective. You are hired by a FinTech startup, Tax First Labz (http://taxfirstlabz.xyz) to conduct an adversary emulation exercise and steal their customer data (before an actual adversary). This exercise assumes zero knowledge about the target network. 
 
+![](/images/tfl-network.PNG)
+
 In this lab, you will mimic a real world cyber attack with a specific objective, stealing Tax Fist Labz customer data. You will follow the Red Team Operations Attack Lifecycle to conduct this exercise. You will go through each phase in a step-by-step manner and build our attack path as you move ahead. You will employee a variety of techniques, such as
 
 - Active and passive information gathering
