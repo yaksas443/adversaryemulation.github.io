@@ -65,4 +65,4 @@ This is a beginner friendly course. If you have just started your career in offe
     - Executives seeking to understand how an organization can be breached
 
 [Enroll in the course](https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE){: .btn .btn-purple } 
-[Course Lab](https://adversaryemulation.com/rtae-lab-taxfirstlabz){: .btn .btn-purple }
+[Course Lab](https://adversaryemulation.com/rtae-lab-taxfirstlabz#lab-access-self-hosted){: .btn .btn-purple }
