@@ -30,15 +30,19 @@ In this lab, you will mimic a real world cyber attack with a specific objective,
 
 This is a beginner friendly course and lab. If you have just started your career in offensive cybersecurity or are preparing for penetration testing exams (OSCP, eJPT, eCPT, eCPTx, CRTP, CRTO etc.) then this course is for you. If you are already a penetration tester or a red teamer, you will enjoy following a live adversary emulation exercise from scope creation to reporting.
 
-## Lab access and duration
+## Lab access (self-hosted)
 
-Students will be provided access to a pre-configured attacker machine (Kali Linux) via browser-based interface (Apache Guacamole). This machine contains all tools required to attack the target organization and exfilterate the data. 
+If you want to hack the Tax First Labz network, you can do so by hosting the lab network in your own AWS account. To check self-hosting prerequisites and eligibility please fill the form below. Once the instructor approves, you will be provided access to AKSH, our lab management bot on [Discord](https://ykrt.in/discord). You can ask AKSH to automatically deploy / destroy the lab environment in your AWS account, list machines, check lab status, start, stop, reboot and revert machines.
 
-The lab is currently in alpha testing. Students participating in alpha testing will be provided 8 hours free of cost access to the lab. This means once the lab is provisioned it will be active for 8 hours. Student will not be able to stop or pause the lab. However, students can request to revert / reboot machines via the support channels.  
+We do not charge anything for self-hosted labs or support. However, you will have to pay AWS charges for hosting the lab network. The charges are approximately USD 0.38 per hour when the lab is running and approximately USD 0.033 per hour when the lab is stopped. The amount will be charged by Amazon on the credit card you have configured for billing in your AWS account. Charges will be incurred until you destroy the lab environment. 
 
+Once the lab has been deployed, you will be provided access to a pre-configured attacker machine (Kali Linux) via browser-based interface (Apache Guacamole). This machine contains all tools required to attack the target organization and exfilterate the data. 
+
+[Red Team Adversary Emulation Lab - Self-hosting Prerequisites and Eligibility Form](https://ykrt.in/RTAELabForm)
+  
 ## Support
 
- Lab support will be provided via Discord. Please join [Yaksas CSC Discord server](https://discord.gg/q6y5VM2PbA).
+ Lab support will be provided via Discord. Please join [Yaksas CSC Discord server](https://ykrt.in/discord).
  
 
 
