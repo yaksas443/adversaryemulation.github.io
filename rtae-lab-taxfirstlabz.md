@@ -34,7 +34,7 @@ This is a beginner friendly course and lab. If you have just started your career
 
 If you want to hack the Tax First Labz network, you can do so by hosting the lab network in your own AWS account. To check self-hosting prerequisites and eligibility please fill the form below. Once the instructor approves, you will be provided access to AKSH, our lab management bot on [Discord](https://ykrt.in/discord). You can ask AKSH to automatically deploy / destroy the lab environment in your AWS account, list machines, check lab status, start, stop, reboot and revert machines.
 
-We do not charge anything for self-hosted labs. However, you will have to pay AWS charges for hosting the lab network. The charges are approximately USD 0.38 per hour when the lab is running and approximately USD 0.033 per hour when the lab is stopped. The amount will be charged by Amazon on the credit card you have configured for billing in your AWS account. Charges will be incurred until you destroy the lab environment. 
+We do not charge anything for self-hosted labs. However, you will have to pay AWS charges for hosting the lab network. The charges are approximately USD 0.38 per hour when the lab is running and approximately USD 0.033 per hour when the lab is stopped. The amount will be charged by Amazon on the credit card you have configured for billing in your AWS account. Charges will be incurred until you destroy the lab environment. Check the 'Lab Setup' section of the course for more details. 
 
 Once the lab has been deployed, you will be provided access to a pre-configured attacker machine (Kali Linux) via browser-based interface (Apache Guacamole). This machine contains all tools required to attack the target organization and exfilterate the data. 
 
