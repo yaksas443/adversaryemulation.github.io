@@ -40,7 +40,7 @@ Once the lab has been deployed, you will be provided access to a pre-configured 
 
 [Red Team Adversary Emulation Lab - Self-hosting Prerequisites and Eligibility Form](https://ykrt.in/RTAELabForm)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yRFK8DZDfX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRFK8DZDfX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why opt for self-hosted version?
 
