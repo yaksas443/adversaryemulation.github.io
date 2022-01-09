@@ -47,7 +47,11 @@ Here are few reasons we think you will enjoy the self-hosted lab:
 - You can reverse engineer the lab setup and understand how to create an red team lab on AWS. 
 - There's no time limit. You will have access to the lab network as long as you want.
 - It's free (in the sense that you don't have to pay anything to us). You only pay AWS charges ($0.38 / hour when running and $0.033 / hour when stopped).
-  
+ 
+## Lab FAQs
+
+Lab FAQs are available [here](https://adversaryemulation.com/rtae-lab-faq)
+
 ## Support
 
  Lab support will be provided via Discord. Please join [Yaksas CSC Discord server](https://ykrt.in/discord). 
