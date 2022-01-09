@@ -39,6 +39,14 @@ We do not charge anything for self-hosted labs. However, you will have to pay AW
 Once the lab has been deployed, you will be provided access to a pre-configured attacker machine (Kali Linux) via browser-based interface (Apache Guacamole). This machine contains all tools required to attack the target organization and exfilterate the data. 
 
 [Red Team Adversary Emulation Lab - Self-hosting Prerequisites and Eligibility Form](https://ykrt.in/RTAELabForm)
+
+## Why opt for self-hosted version?
+
+Here are few reasons we think you will enjoy the self-hosted lab:
+- You have full-control of the lab. Through our lab management bot, AKSH, you will be able to start and stop the lab as per your convenience. AKSH can do a lot more (check Lab Management via AKSH video in the lab setup section).
+- You can reverse engineer the lab setup and understand how to create an red team lab on AWS. 
+- There's no time limit. You will have access to the lab network as long as you want.
+- It's free (in the sense that you don't have to pay anything to us). You only pay AWS charges ($0.38 / hour when running and $0.033 / hour when stopped).
   
 ## Support
 
