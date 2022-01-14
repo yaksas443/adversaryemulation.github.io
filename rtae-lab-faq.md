@@ -40,11 +40,11 @@ permalink: /rtae-lab-faq
 1. Run the ```!destroy``` command. That should clean up the resources created during the failed depployment. 
 2. Once ```!destroy``` command has finished doing it's magic, run ```!deploy``` command again.
 3. If this doesn't work, follow these steps to clean up your AWS account:
-  a. 1. Login to your AWS account > EC2 - > Terminate all running instances whose name starts with "TFL-". Wait for instances to terminate.
-  b. In EC2 go to Key Pairs -> Select all key pairs starting with "tfl-box" and "rtr-attacker-box" -> delete them
-  c. Go to VPC -> Select VPC whose name starts with "TFL-LAB" -> delete it (This operation should also delete all other network resources created by AKSH)
-  d. If you see multiple VPCs whose name starts with "TFL-LAB", delete them one by one
-  e. Go to VPC -> Internet gateways -> Select internet gateway whose name starts with "TFL-LAB" -> delete it (Note: this step is required in certain scenarios only).
+- a. Login to your AWS account > EC2 - > Terminate all running instances whose name starts with "TFL-". Wait for instances to terminate.
+- b. In EC2 go to Key Pairs -> Select all key pairs starting with "tfl-box" and "rtr-attacker-box" -> delete them
+- c. Go to VPC -> Select VPC whose name starts with "TFL-LAB" -> delete it (This operation should also delete all other network resources created by AKSH)
+- d. If you see multiple VPCs whose name starts with "TFL-LAB", delete them one by one
+- e. Go to VPC -> Internet gateways -> Select internet gateway whose name starts with "TFL-LAB" -> delete it (Note: this step is required in certain scenarios only).
 
 ## I have a question that is not listed here. Where should I post it?
 - Please join [Yaksas CSC on Discord](https://ykrt.in/discord). You can post your questions in the #general channel of this course.
