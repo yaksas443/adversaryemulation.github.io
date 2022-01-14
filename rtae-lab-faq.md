@@ -37,7 +37,7 @@ permalink: /rtae-lab-faq
 
 ## Lab deployment got stuck or errored out in between, what should I do?
 
-1. Run the ```!destroy``` command. That should clean up the resources created during the failed depployment. 
+1. Run the ```!destroy``` command. That should clean up resources created during the failed depployment. 
 2. Once ```!destroy``` command has finished doing it's magic, run ```!deploy``` command again.
 3. If this doesn't work, follow these steps to clean up your AWS account:
 - a. Login to your AWS account > EC2 - > Terminate all running instances whose name starts with "TFL-". Wait for instances to terminate.
