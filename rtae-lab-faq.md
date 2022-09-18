@@ -14,7 +14,7 @@ permalink: /rtae-lab-faq
 ## Do you plan to launch lab access packages in the near future?
 - No. We don't have any plans to launch paid lab packages.
 
-## How much time will it take for the request to be processed after submitting the [Self-hosting Prerequisites and Eligibility Form](https://ykrt.in/RTAELabForm)?
+## How much time will it take for the request to be processed after submitting the [Self-hosting Prerequisites and Eligibility Form](https://yks.red/RTAELabForm)?
 - You should hear back from us within 24 hours.
 
 ## Are all students eligible for self-host option?
