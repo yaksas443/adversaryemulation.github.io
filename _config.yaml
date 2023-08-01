@@ -66,8 +66,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Enroll in the course (LAUNCH SALE)":
-    - "https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813&coupon_code=YCSCAELAUNCHSALE"
+  "Enroll in the course":
+    - "https://courses.yaksas.in/p/adversary-emulation-101-mimicking-a-real-world-cyber-attack/?product_id=2250813"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
