@@ -2,7 +2,7 @@
 layout: default
 title: Managing Self-hosted Labs via AKSH 
 nav_order: 4
-description: Managing self-hosted labs just became a piece of cake.  
+description: How I created a self-service bot, AKSH, that made managing self-hosted labs a piece of cake.  
 
 permalink: /aksh
 ---
