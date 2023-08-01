@@ -28,13 +28,13 @@ AKSH features the core functionality students will need to self-manage a lab. Ad
    - !deploy - Deploy the lab.
    - !destroy - Destroy the lab.
    - !start - Start lab machines. This command takes in either a single machine name or ALL to start all machines.
-   - !stop - Stop lab machines. This command takes in either a single machine name or ALL to start all machines.
-   - !reboot - Reboot lab machines. This command takes in either a single machine name or ALL to start all machines.
-   - !revert - Revert lab machines to their original state. This command takes in either a single machine name or ALL to start all machines.
+   - !stop - Stop lab machines. This command takes in either a single machine name or ALL to stop all machines.
+   - !reboot - Reboot lab machines. This command takes in either a single machine name or ALL to reboot all machines.
+   - !revert - Revert lab machines to their original state. This command takes in either a single machine name or ALL to revert all machines.
      
  - ### Ancillary Commands
    - !list - Lists the name of all lab machines.
-   - !status - Display the status of lab machines. This command takes in either a single machine name or ALL to start all machines.
+   - !status - Display the status of lab machines. This command takes in either a single machine name or ALL to list status of all machines.
    - !showinfo - Display lab access details.
    - !ss - Display real-time updates of a lab management operation. (Fun fact: This command was originally !showstatus but it was too much to type frequently, so I shortened it to !ss. Now you know what ss stands for.)
 
