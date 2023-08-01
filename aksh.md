@@ -26,7 +26,7 @@ AKSH features the core functionality students will need to self-manage a lab. Ad
 
  - ### Lab Management
    - !deploy - Deploy the lab.
-   - !destroy - Destroy the lab
+   - !destroy - Destroy the lab.
    - !start - Start lab machines. This command takes in either a single machine name or ALL to start all machines.
    - !stop - Stop lab machines. This command takes in either a single machine name or ALL to start all machines.
    - !reboot - Reboot lab machines. This command takes in either a single machine name or ALL to start all machines.
