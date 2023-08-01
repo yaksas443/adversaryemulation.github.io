@@ -33,4 +33,8 @@ AKSH features the core functionality students will need to self-manage a lab. Ad
    - !status - Display the status of lab machines. This command takes in either a single machine name or ALL to start all machines.
    - !showinfo - Display lab access details.
    - !ss - Display real-time updates of a lab management operation. (Fun fact: This command was originally !showstatus but it was too much to type frequently, so I shortened it to !ss. Now you know what ss stands for.)
+
+  ## I am interested in trying out AKSH, where do I sign-up?
+
+Currently, access to AKSH is restricted to students of the [Red Team Adversary Emulation: Mimicking a real-world cyber attack](https://yks.red/RTAE) course. If you have purchased or have been provided access to the course, please fill out the [Red Team Adversary Emulation Lab - Self-hosting Prerequisites and Eligibility Form](https://yks.red/RTAELabForm).
  
