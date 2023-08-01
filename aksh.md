@@ -2,7 +2,7 @@
 layout: default
 title: Managing Self-hosted Labs via AKSH 
 nav_order: 4
-description: Lab to go along with Yaksas CSC's Red Team Adversary Emulation course  
+description: Managing self-hosted labs just became a piece of cake.  
 
 permalink: /aksh
 ---
