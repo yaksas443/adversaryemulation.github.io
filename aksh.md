@@ -18,7 +18,7 @@ Before you think I am harboring an alien of some kind, I am not. AKSH is a Disco
 
 ## Okay AKSH, What can you do?
 
-AKSH features the core functionality students will need to self-manage a lab. Additionally, it also caters to few ancilliary commands. Here's the list of commands AKSH responds to:
+AKSH features the core functionality students will need to self-manage a lab. Additionally, it also caters to few ancillary commands. Here's the list of commands AKSH responds to:
 
  - Lab Management
    - !deploy - Deploy the lab.
@@ -28,7 +28,7 @@ AKSH features the core functionality students will need to self-manage a lab. Ad
    - !reboot - Reboot lab machines. This command takes in either a single machine name or ALL to start all machines.
    - !revert - Revert lab machines to their original state. This command takes in either a single machine name or ALL to start all machines.
      
- - Ancilliary Commands
+ - Ancillary Commands
    - !list - Lists the name of all lab machines.
    - !status - Display the status of lab machines. This command takes in either a single machine name or ALL to start all machines.
    - !showinfo - Display lab access details.
