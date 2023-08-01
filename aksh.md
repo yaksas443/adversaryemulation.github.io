@@ -10,7 +10,7 @@ permalink: /aksh
 
 Necessity is the mother of invetion. That's how AKSH came into being.
 
-When I created the course [Red Team Adversary Emulation: Mimicking a real-world cyber attack](https://yks.red/RTAE), I wanted to provide a means to students to practice the attacks, demonstrated in the course, in a real-world lab. 
+When I created the course [Red Team Adversary Emulation: Mimicking a real-world cyber attack](https://yks.red/RTAE), I wanted to provide a means to students to practice the attacks in a real-world lab. I wanted to do so without digging a hole in their pockets. I approached a few companies (well, one company TBH) which could make this possible but it didn't work out. Left with no choice and a determined will to make it possible for students, I set out to learn how to create Discord bots and AWS APIs.  
 
 ## Lab access (self-hosted)
 
